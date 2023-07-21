@@ -15,3 +15,5 @@ All machine learning experiments from the paper are contained in the folder `ml-
 The data contained in `ml-framework/data/erp_fraud` is the ERP fraud detection data of Tritscher et al. [1]. The full data is available at https://professor-x.de/erp-fraud-data.
 
 Results of the hyperparameter studies from the paper experiments can be found unter `ml-framework/outputs/logs/erp_mas`.
+
+[1] Tritscher, Julian, et al. "Open ERP System Data For Occupational Fraud Detection." arXiv preprint arXiv:2206.04460 (2022).
